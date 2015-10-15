@@ -39,3 +39,7 @@ var launched_count = 0;
 		resumed_count++;
 		updateDisplay();
     }
+
+    function added(){
+    	alert("added")
+    }

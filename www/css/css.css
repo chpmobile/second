@@ -1,10 +1,18 @@
 .background{
 	height: 100px;
 	width: 500px;
-	background-color: E82C0C;
+	background-color: 5B81FF;
 }
 
+.a{
+
+  padding-top: 100px;
+}
+.b{
+	padding-top: 100px;
+}
 input {
+
     border: 5px solid white; 
     -webkit-box-shadow: 
       inset 0 0 8px  rgba(0,0,0,0.1),
